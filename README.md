@@ -1,4 +1,4 @@
-<p align="center">
+<p agggyucfvbsddklign="center">
   <img src="assets/gfpgan_logo.png" height=130>
 </p>
 
